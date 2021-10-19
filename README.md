@@ -1,2 +1,7 @@
 # ARQ_JAVA_JavaHerencia
-Practicando temas fundamentales
+
+-- Herencia y extensibiliad
+-- sobrecarga dinamica
+-- super vs super()
+-- polimorfismo
+-- casting
